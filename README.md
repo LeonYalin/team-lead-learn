@@ -1,2 +1,2 @@
-# team-lead-learn
-This project helps in learning the Team Lead role
+# aws-learn
+This project helps in learning AWS
