@@ -16,12 +16,8 @@ function customerExpectations() {
     - Business focal point
     - Your manager
     - End users
-    `);
-}
 
-function qualityCommunication() {
-  logToHTML('' +
-    `Customer communications should follow these principles:
+    Customer communications should follow these principles:
     - Consistently communicate
     - Open communication
     - Transparency
@@ -34,12 +30,8 @@ function qualityCommunication() {
     - Write meetings agendas and outcomes, send metting summary emails
     - Write reports, weekly status emails
     - Market your team and mention appreciation to your team in emails
-    `);
-}
 
-function knowYourLimitations() {
-  logToHTML('' +
-    `Your resources are not infinite. Limit customers:
+    Your resources are not infinite. Limit customers:
     - Show customer your projects to make him understand you are busy
     - change priorities for some tasks / move things to backlog
     - change budget / add resources / people / time
@@ -50,12 +42,8 @@ function knowYourLimitations() {
     - pay attention to the holidays and vacations people will take on certain months
     - be practical and honest, explain why do you have long estimations instead of giving wrong numbers
     - be positive and optimistic. It also impacts your tem as they feel it too
-    `);
-}
 
-function howToSayNo() {
-  logToHTML('' +
-    `Learn how to say no. Examples of these are:
+    Learn how to say no. Examples of these are:
     - Yes, but... e,g, Yes, I can do it by next week but I will need 2 more contractors.
     - Choose... Choose one of the alternatives for something
     - Demonstrate you understand
@@ -65,12 +53,8 @@ function howToSayNo() {
     - Explain obstacles and possible problems we might encounter
     - Delegate 'up'
     - Leverage influencers, ask other people to help
-    `);
-}
 
-function serviceLevelAgreements() {
-  logToHTML('' +
-    `Service Level Agreements (SLA) are contracts (documents) between you and the customer that contains expectations from your team. Benefits:
+    Service Level Agreements (SLA) are contracts (documents) between you and the customer that contains expectations from your team. Benefits:
     - Expectations are specific
     - Expectations are written
     - Expectations are measured
@@ -89,9 +73,5 @@ function serviceLevelAgreements() {
 export default function managingCustomerExpectations() {
   delimeterMsg('MANAGING CUSTOMER EXPECTATIONS');
   logF(customerExpectations);
-  logF(qualityCommunication);
-  logF(knowYourLimitations);
-  logF(howToSayNo);
-  logF(serviceLevelAgreements);
 }
 
