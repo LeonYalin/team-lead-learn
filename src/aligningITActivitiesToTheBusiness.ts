@@ -1,6 +1,6 @@
 import { delimeterMsg, logF, logToHTML } from "./utils";
 
-function businessAlignment() {
+function itToBusinessAlignment() {
   logToHTML('' +
     `Aligning IT to business means using work with the business when developing the strategic plan.
 
@@ -54,6 +54,6 @@ function businessAlignment() {
 
 export default function aligningITActivitiesToTheBusiness() {
   delimeterMsg('ALIGNING IT ACTIVITIES TO THE BUSINESS');
-  logF(businessAlignment);
+  logF(itToBusinessAlignment);
 }
 
