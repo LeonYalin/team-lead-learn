@@ -24,24 +24,24 @@ function customerExpectations() {
     - Honesty
     - TRUST
 
-    The importand thing is to manage Written communication:
+    The importand thing is to manage written communication:
     - Use emails to contact with customers
     - Update progress via emails, increase transparency
     - Write meetings agendas and outcomes, send metting summary emails
-    - Write reports, weekly status emails
-    - Market your team and mention appreciation to your team in emails
+    - Write reports, weekly status emails and presentations
+    - Market your team, mention and appreciate your team in emails
 
     Your resources are not infinite. Limit customers:
     - Show customer your projects to make him understand you are busy
-    - change priorities for some tasks / move things to backlog
-    - change budget / add resources / people / time
-    - Time of day - make shure customer understands your working hours, and not calling you 24/7
+    - Change priorities for some tasks / move things to backlog
+    - Change budget / add resources / people / time
+    - Time of day - make sure customer understands your working hours, and not calling you 24/7
 
     Get real for your statements:
-    - clear timelines / estimations (add buffer if neccesary)
-    - pay attention to the holidays and vacations people will take on certain months
-    - be practical and honest, explain why do you have long estimations instead of giving wrong numbers
-    - be positive and optimistic. It also impacts your tem as they feel it too
+    - Clear timelines / estimations (add buffer if neccesary)
+    - Pay attention to the holidays and vacations people will take on certain months
+    - Be practical and honest, explain why do you have long estimations instead of giving wrong numbers
+    - Be positive and optimistic. It also impacts your team as they feel it too
 
     Learn how to say no. Examples of these are:
     - Yes, but... e,g, Yes, I can do it by next week but I will need 2 more contractors.
@@ -67,6 +67,22 @@ function customerExpectations() {
     - Problem reporting - call center, monitoring, statistics
     - Monitoring and reporting - if we have problems, who will solve it and how much it will cost, what happen if we don't
     - Constraints -what we will not do
+
+    Customer Service quadrant:
+    | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+    |_____________|_____________________________________|______________________________________ |
+    |             | Phone Support                       | Time To Repair                        |
+    | Good        |                                     |                                       |
+    | Service     |                                     |                                       |
+    | ____________| ____________________________________|______________________________________ |
+    |             |                                     | DB Security                           |
+    | Not So Good |                                     | Buggy Software                        |
+    | Service     |                                     |                                       |
+    |             | ____________________________________|______________________________________ |
+    |             | Not So Important                    | Pretty Important                      |
+    | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+
+    You should focus on: Pretty Importnt - Not So Good Service!
     `);
 }
 
